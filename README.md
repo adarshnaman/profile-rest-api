@@ -1,3 +1,4 @@
-# Profile REST API
+# creating project in python
 
-Profile rest api code
+creating project and app in python
+
